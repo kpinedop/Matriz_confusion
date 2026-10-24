@@ -1,0 +1,6 @@
+{
+  "name": "MatrizLab - Laboratorio Interactivo de Matriz de Confusión",
+  "description": "Plataforma educativa interactiva y gamificada para dominar la matriz de confusión y métricas de evaluación en Machine Learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
